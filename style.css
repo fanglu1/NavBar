@@ -1,0 +1,52 @@
+nav {
+  color: white;
+  }
+  
+  .flex-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .Logo {
+    background-color: purple;
+    color: white;
+    display: flex;
+    padding: .4cm;
+    font-size: 43px;
+    }
+  
+  .topnav {
+    background-color: black;
+    color: white;
+    display: flex;
+    list-style-type: none;
+    padding: 31px;
+  }
+  
+  .Login {
+    background-color: black;
+    color: white;
+    display: flex;
+    list-style-type: none;
+    padding: 19px;
+  }
+  
+  .Search {
+    background-color: black;
+    color: white;
+    display: flex;
+    list-style-type: none;
+    padding: 29.5px;
+    padding-right: 0;
+  }
+  
+  .icon {
+    background-color: black;
+    color: white;
+    display: flex;
+    list-style-type: none;
+    padding: 3px;
+    padding-top: 33px;
+    padding-bottom: 33px;
+  }
